@@ -7,7 +7,7 @@
 **Le runner 2D sans fin façon Super Mario Bros × Subway Surfers**
 Ordinateur · Mobile · Installable · Jouable hors ligne
 
-![version](https://img.shields.io/badge/version-4.3-ffd23f?style=for-the-badge)
+![version](https://img.shields.io/badge/version-5.0-ffd23f?style=for-the-badge)
 ![pwa](https://img.shields.io/badge/PWA-offline-5cb82a?style=for-the-badge)
 ![zero deps](https://img.shields.io/badge/d%C3%A9pendances-0-e52521?style=for-the-badge)
 ![license](https://img.shields.io/badge/licence-MIT-2b4acb?style=for-the-badge)
@@ -18,10 +18,12 @@ Ordinateur · Mobile · Installable · Jouable hors ligne
 
 ---
 
-## ✨ Nouveautés de la v4.3
+## ✨ Nouveautés de la v5.0
 
 | | |
 |---|---|
+| 🧑 **Personnages 3D** | Nouvel onglet : carrousel 3D en voxels, 8 personnages à débloquer, aperçu animé dans le menu |
+| 🎨 **Refonte visuelle** | Onglets, cartes, sprites ombrés et nouvelle typographie |
 | 🎬 **Menus animés** | Transitions fluides, titre flottant, boutons réactifs, écran d'aide |
 | 🏃 **Animations pro** | Squash & stretch, ombre, poussière, particules qui s'estompent |
 | ⏱️ **Compte à rebours** | 3 · 2 · 1 · GO ! avant chaque partie |
