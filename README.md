@@ -7,7 +7,7 @@
 **Le runner 2D sans fin façon Super Mario Bros × Subway Surfers**
 Ordinateur · Mobile · Installable · Jouable hors ligne
 
-![version](https://img.shields.io/badge/version-3.0-ffd23f?style=for-the-badge)
+![version](https://img.shields.io/badge/version-4.3-ffd23f?style=for-the-badge)
 ![pwa](https://img.shields.io/badge/PWA-offline-5cb82a?style=for-the-badge)
 ![zero deps](https://img.shields.io/badge/d%C3%A9pendances-0-e52521?style=for-the-badge)
 ![license](https://img.shields.io/badge/licence-MIT-2b4acb?style=for-the-badge)
@@ -18,7 +18,7 @@ Ordinateur · Mobile · Installable · Jouable hors ligne
 
 ---
 
-## ✨ Nouveautés de la v3.0
+## ✨ Nouveautés de la v4.3
 
 | | |
 |---|---|
@@ -40,6 +40,22 @@ Ordinateur · Mobile · Installable · Jouable hors ligne
 - **Boutique** : double saut, aimant+, bouclier de départ, pièces dorées, 5 costumes
 - **Sauvegarde automatique** : pièces, achats, record
 - **PWA** : installable sur l'écran d'accueil, fonctionne sans connexion
+
+## 📱 Version mobile
+
+- Mise en page **verticale automatique** quand le téléphone est en portrait (le jeu reste horizontal sur ordinateur et en paysage)
+- Multi-touch : saute et baisse-toi en même temps (gauche = se baisser, droite = sauter)
+- Rendu net sur écrans Retina / HiDPI, écran maintenu allumé, pause automatique si tu quittes l'app
+- Bouton « 📲 Installer » (Android) ou *Partager → Sur l'écran d'accueil* (iPhone)
+
+## 🤖 APK Android
+
+Le bouton **📲 Installer l'app** (menu, sur Android) télécharge l'APK du jeu.
+L'APK est construit **automatiquement par GitHub** (`.github/workflows/apk.yml`) à chaque push, puis publié dans *Releases → APK Android*.
+
+- Premier build : 5 à 10 min après le push (onglet *Actions*)
+- Lien direct : `https://github.com/TON-PSEUDO/NOM-DU-DEPOT/releases/latest/download/super-runner-infini.apk`
+- Sur le téléphone : autorise l'installation depuis le navigateur, puis ouvre le fichier
 
 ## 🕹️ Commandes
 
