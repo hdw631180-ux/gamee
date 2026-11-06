@@ -7,7 +7,7 @@
 **Le runner 2D sans fin façon Super Mario Bros × Subway Surfers**
 Ordinateur · Mobile · Installable · Jouable hors ligne
 
-![version](https://img.shields.io/badge/version-2.0-ffd23f?style=for-the-badge)
+![version](https://img.shields.io/badge/version-3.0-ffd23f?style=for-the-badge)
 ![pwa](https://img.shields.io/badge/PWA-offline-5cb82a?style=for-the-badge)
 ![zero deps](https://img.shields.io/badge/d%C3%A9pendances-0-e52521?style=for-the-badge)
 ![license](https://img.shields.io/badge/licence-MIT-2b4acb?style=for-the-badge)
@@ -18,7 +18,7 @@ Ordinateur · Mobile · Installable · Jouable hors ligne
 
 ---
 
-## ✨ Nouveautés de la v2.0
+## ✨ Nouveautés de la v3.0
 
 | | |
 |---|---|
