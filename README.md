@@ -7,7 +7,7 @@
 **Le runner 2D sans fin façon Super Mario Bros × Subway Surfers**
 Ordinateur · Mobile · Installable · Jouable hors ligne
 
-![version](https://img.shields.io/badge/version-5.0-ffd23f?style=for-the-badge)
+![version](https://img.shields.io/badge/version-4.4-ffd23f?style=for-the-badge)
 ![pwa](https://img.shields.io/badge/PWA-offline-5cb82a?style=for-the-badge)
 ![zero deps](https://img.shields.io/badge/d%C3%A9pendances-0-e52521?style=for-the-badge)
 ![license](https://img.shields.io/badge/licence-MIT-2b4acb?style=for-the-badge)
@@ -18,35 +18,35 @@ Ordinateur · Mobile · Installable · Jouable hors ligne
 
 ---
 
-## ✨ Nouveautés de la v5.0
+## ✨ Nouveautés de la v4.4
 
 | | |
 |---|---|
-| ⚡ **Boutique d’améliorations XXL** | 14 upgrades : double saut, aimant+, super saut, multi-score, durée des power-ups, combo+, jetpack, départ chanceux, chanceux… |
-| 🌍 **Onglet Mondes** | 7 mondes déblocables avec bonus permanents (plaine, coucher de soleil, nuit, forêt, volcan, toundra, cosmos) |
-| 👤 **Plus de personnages** | 8 costumes (Classique → Arc-en-ciel) |
-| 🎮 **Progression plus riche** | Bonus de monde, multi-score permanent, combos renforcés, jetpack aérien |
-| 💾 **Nouvelle sauvegarde** | Clé `sr5` (migration auto depuis v4.x) |
+| 👤 **Boutique de personnages** | Les costumes sont maintenant dans une boutique dédiée |
+| ⚡ **Boutique d’améliorations** | Double saut, aimant+, bouclier, pièces dorées (séparée) |
 
-## ✨ Nouveautés de la v4.5
+## ✨ Nouveautés de la v4.3
 
 | | |
 |---|---|
-| 🎨 **Graphismes refinés** | Ciels plus doux, collines par zones, nuages, herbe détaillée, fleurs |
-| ✨ **Menus fluides** | Glassmorphism, animations plus souples, boutons arrondis et réactifs |
-| 🌅 **Ambiances de zone** | Jour lumineux · Coucher de soleil chaud · Nuit étoilée · Forêt verdoyante |
-| 👤 **Boutique de personnages** | Costumes dans une boutique dédiée |
-| ⚡ **Boutique d’améliorations** | Upgrades séparés (double saut, aimant+, bouclier…) |
+| 🎬 **Menus animés** | Transitions fluides, titre flottant, boutons réactifs, écran d'aide |
+| 🏃 **Animations pro** | Squash & stretch, ombre, poussière, particules qui s'estompent |
+| ⏱️ **Compte à rebours** | 3 · 2 · 1 · GO ! avant chaque partie |
+| 🔥 **Combos** | Écrase les ennemis à la chaîne : ×2, ×3, ×4… |
+| 📊 **HUD moderne** | Pastilles arrondies, barre de progression de zone, barres de bonus |
+| 🎵 **Musique chiptune** | Qui s'accélère avec la vitesse du jeu |
+| 💥 **Game feel** | Flash, tremblement d'écran, vibration mobile, traits de vitesse |
+| 🏆 **Records** | Badge « Nouveau record » en fin de partie |
 
 ## 🎮 Fonctionnalités
 
 - **Génération infinie** : la vitesse augmente avec la distance
-- **7 mondes** : plaine → coucher de soleil → nuit → forêt → volcan → toundra → cosmos
+- **4 zones** : jour → coucher de soleil → nuit → forêt
 - **Obstacles variés** : trous, tuyaux, briques, ennemis, oiseaux
 - **Bonus** : 🧲 aimant · 🛡️ bouclier · 🪙 pièces ×2 · ⭐ étoile invincible
-- **14 améliorations** permanentes (style Subway Surfers)
-- **8 personnages** dont un costume arc-en-ciel
-- **Sauvegarde automatique** : pièces, achats, mondes, record
+- **Boutique d’améliorations** : double saut, aimant+, bouclier de départ, pièces dorées
+- **Boutique de personnages** : 5 costumes (Classique, Vert, Violet, Cyan, Or)
+- **Sauvegarde automatique** : pièces, achats, record
 - **PWA** : installable sur l'écran d'accueil, fonctionne sans connexion
 
 ## 📱 Version mobile
@@ -110,7 +110,6 @@ python3 -m http.server 8000
 - [ ] Classement en ligne
 - [ ] Sprites pixel-art animés
 - [ ] Nouveaux ennemis et boss de zone
-- [ ] Boards / hoverboards
 
 ## 📄 Licence
 
